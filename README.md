@@ -5,19 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay3611" alt="akshay3611" /></a> </p>
 
-- 🔭 I’m currently pursuing **Master's in computer application.**
+💼 I’m currently working as a Junior Software Engineer, building scalable web applications and role-based dashboard systems.
 
-- 🌱 I’m currently learning **MERN stack development, advanced Python concepts, and integrating AI models into real-world applications.**
+🎓 MCA graduate with a strong foundation in Computer Science, Data Structures, and Software Engineering principles.
 
-- 👯 I’m looking to collaborate on **Innovative software development projects, open-source contributions, and AI/ML applications.**
+🚀 I specialize in MERN Stack Development and building AI-powered applications using Python and modern LLM frameworks.
 
-- 🤝 I’m looking for help with **Advancing my skills in MERN stack development, cloud computing, and large-scale project deployment.**
+🧠 Currently exploring System Design, Cloud Deployment, and Production-grade AI integrations.
 
-- 💬 Ask me about **Python programming, Git and GitHub, project management, or building full-stack applications.**
+🤝 Open to collaborating on Full-Stack projects, AI/ML applications, and impactful open-source contributions.
 
-- 📫 How to reach me **You can reach me via email at akshayt3611@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/akshaykumar3611/**
+💬 Ask me about JavaScript, Python, REST APIs, MongoDB, Authentication Systems, or integrating AI into web apps.
 
-- ⚡ Fun fact **I’ve been passionate about technology since my school days, and I once turned a simple coding project into something so exciting that my friends thought I was hacking!**
+📫 Reach me at akshayt3611@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/akshaykumar3611/
+
+⚡ Fun fact: I enjoy turning complex problems into clean, scalable solutions — and I genuinely love building things that people actually use.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
