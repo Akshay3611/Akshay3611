@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay3611&label=Profile%20views&color=0e75b6&style=flat" alt="akshay3611" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay3611" alt="akshay3611" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay3611" alt="akshay3611" /></a> </p> -->
 
-💼 I’m currently working as a Junior Software Engineer, building scalable web applications and role-based dashboard systems.
+💼 I’m currently working as a Junior Software Engineer, building scalable web applications.
 
 🎓 MCA graduate with a strong foundation in Computer Science, Data Structures, and Software Engineering principles.
 
